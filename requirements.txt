@@ -9,3 +9,5 @@ pydantic-settings
 email-validator
 aioimaplib
 cryptography
+scikit-learn
+nltk
